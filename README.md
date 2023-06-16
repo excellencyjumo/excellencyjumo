@@ -9,7 +9,6 @@ A backend engineer. I develop highly sacalable, cost-efficient backend solutions
 - 🌱 I’m currently diving deeper into advanced concepts of JavaScript and exploring new frameworks and technologies in the backend development ecosystem.
 - 👯 I’m looking to collaborate on awesome projects that require a strong backend infrastructure and architectural expertise, enabling the development of efficient, scalable, and maintainable API solutions.
 - 💬 Ask me about anything programming. I'm happy to help!
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Recently started writing articles on [Dev.to](https://dev.to/).
 
 ## Languages, Frameworks & Libraries
