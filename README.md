@@ -1,6 +1,10 @@
 ### Hi there, I'm Adejumo 👋
 
-A backend engineer. I develop highly sacalable, cost-efficient backend solutions with Express, MONGODB, SQL, Digital Oceans, and more...
+A backend engineer. I develop highly sacalable, cost-efficient backend solutions with Express, MongoDB, SQL, Digital Oceans, and more...
+
+Stay tuned for more updates on my projects and endeavors.I am open to job opportunities and collaborations on exciting projects. 
+
+Feel free to reach out to me for any inquiries or discussions related to backend development.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/excellencyjumo)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:excellencejumo@outlook.com)
