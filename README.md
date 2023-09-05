@@ -13,7 +13,7 @@ Feel free to reach out to me for any inquiries or discussions related to backend
 - 🌱 I’m currently diving deeper into advanced concepts of JavaScript and exploring new frameworks and technologies in the backend development ecosystem.
 - 👯 I’m looking to collaborate on awesome projects that require a strong backend infrastructure and architectural expertise, enabling the development of efficient, scalable, and maintainable API solutions.
 - 💬 Ask me about anything programming. I'm happy to help!
-- ⚡ Fun fact: Recently started writing articles on [Dev.to](https://dev.to/).
+- ⚡ Fun fact: Recently started writing articles on [Dev.to](https://dev.to/excellencyjumo) and on [Hashnode](https://hashnode.com/@excellencyjumo).
 
 ## Languages, Frameworks & Libraries
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
